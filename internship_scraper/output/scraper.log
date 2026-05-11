@@ -1,0 +1,53 @@
+17:07:18  INFO      ============================================================
+17:07:18  INFO      PHASE 1 : Scraping Welcome to the Jungle
+17:07:18  INFO      ============================================================
+17:07:18  INFO      [WTTJ] Recherche : 'alternance trading énergie'
+17:07:19  WARNING   [WTTJ] Status 403 pour 'alternance trading énergie'
+17:07:20  INFO      [WTTJ] Recherche : 'alternance energy market analyst'
+17:07:20  WARNING   [WTTJ] Status 403 pour 'alternance energy market analyst'
+17:07:22  INFO      [WTTJ] Recherche : 'alternance analyste marché énergie'
+17:07:22  WARNING   [WTTJ] Status 403 pour 'alternance analyste marché énergie'
+17:07:23  INFO      [WTTJ] Recherche : 'alternance trader énergie électricité'
+17:07:23  WARNING   [WTTJ] Status 403 pour 'alternance trader énergie électricité'
+17:07:25  INFO      [WTTJ] Recherche : 'alternance pricing énergie'
+17:07:25  WARNING   [WTTJ] Status 403 pour 'alternance pricing énergie'
+17:07:26  INFO      [WTTJ] Recherche : 'alternance structureur énergie'
+17:07:26  WARNING   [WTTJ] Status 403 pour 'alternance structureur énergie'
+17:07:28  INFO      [WTTJ] Total offres pertinentes : 0
+17:07:28  INFO      
+============================================================
+17:07:28  INFO      PHASE 2 : Scraping Indeed France
+17:07:28  INFO      ============================================================
+17:07:28  INFO      [Indeed] Recherche : 'alternance trading énergie'
+17:07:28  WARNING   [Indeed] Status 403
+17:07:30  INFO      [Indeed] Recherche : 'alternance energy market analyst'
+17:07:30  WARNING   [Indeed] Status 403
+17:07:32  INFO      [Indeed] Recherche : 'alternance analyste marché énergie'
+17:07:32  WARNING   [Indeed] Status 403
+17:07:34  INFO      [Indeed] Recherche : 'alternance trader énergie électricité'
+17:07:34  WARNING   [Indeed] Status 403
+17:07:36  INFO      [Indeed] Recherche : 'alternance pricing énergie'
+17:07:36  WARNING   [Indeed] Status 403
+17:07:38  INFO      [Indeed] Total offres pertinentes : 0
+17:07:38  INFO      
+============================================================
+17:07:38  INFO      PHASE 3 : Scraping pages carrières entreprises
+17:07:38  INFO      ============================================================
+17:07:38  INFO      
+=== Scraping TotalEnergies ===
+17:07:39  INFO      [TotalEnergies] 0 offre(s) trouvée(s)
+17:07:41  INFO      
+=== Scraping Engie ===
+17:07:45  INFO      [Engie] 0 offre(s) trouvée(s)
+17:07:47  INFO      
+=== Scraping EDF ===
+17:07:53  INFO      [EDF] 0 offre(s) trouvée(s)
+17:07:55  INFO      
+=== Scraping RTE ===
+17:07:59  INFO      [RTE] 0 offre(s) trouvée(s)
+17:08:01  INFO      
+=== Scraping Axpo ===
+17:08:01  INFO      [Axpo] 0 offre(s) trouvée(s)
+17:08:03  INFO      
+✓ 0 offres uniques sauvegardées dans output/jobs_found.json
+17:08:03  WARNING   Aucune offre trouvée. Vérifie ta connexion ou élargis les mots-clés.

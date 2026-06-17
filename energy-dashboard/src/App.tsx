@@ -123,10 +123,6 @@ export default function App() {
                 <EnergyTrendChart data={yearlyKPIs} />
               </div>
 
-              <div style={{ display: 'flex', gap: 16 }}>
-                <MinistryRankingChart data={filteredData} />
-                <ScatterBuildingsChart data={filteredData} />
-              </div>
             </div>
           )}
 

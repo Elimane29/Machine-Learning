@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #f0f4f8;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f0f4f8;
+}
+::-webkit-scrollbar-thumb {
+  background: #b0c4de;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #1a2d5a;
+}
+
+button {
+  font-family: inherit;
+}
+
+select option {
+  background: #1a2d5a;
+  color: #fff;
+}
